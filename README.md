@@ -1,5 +1,8 @@
 # PS4-4.55-4.05-ESP8266
 PS4 4.55 and 4.05 Playground for ESP8266
+
+A special thanks to pearlxcore and Codsworth
+
 ![capture2](https://raw.githubusercontent.com/BYdjBr/PS4-4.55-4.05-ESP8266/master/ESPHostMenu455.png)
 
 Payload include :
