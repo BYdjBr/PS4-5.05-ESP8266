@@ -7,13 +7,11 @@ A special thanks to pearlxcore and Codsworth
 
 ![capture1](https://raw.githubusercontent.com/BYdjBr/PS4-4.55-4.05-ESP8266/master/PS4ESPHost-455.jpg)
 
-![capture2](https://raw.githubusercontent.com/BYdjBr/PS4-4.55-4.05-ESP8266/master/PS4ESPHost-menu.jpg)
-
 Payload include :
 
-    HEN v1.4 - vortex 
-    FTP v1.2 - vortex v1.2
-    Dumper v1.7 - vortex 
-    App2Usb v16 - stooged
-    Original - qwertyuiop
-    Linux loader - vultra
+    HEN v1.5 - vortex 
+    FTP v1.3 - vortex v1.2
+    Dumper v1.8 - vortex 
+    MIRA v1.0 - OpenOrbis
+  
+
