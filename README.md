@@ -8,7 +8,7 @@ A special thanks to pearlxcore and Codsworth
 Payload include :
 
     HEN v1.5 - vortex 
-    FTP v1.3 - vortex v1.2
+    FTP v1.3 - vortex
     Dumper v1.8 - vortex 
     MIRA v1.0 - OpenOrbis
   
